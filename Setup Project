@@ -1,0 +1,4 @@
+mkdir jwt-protected-api
+cd jwt-protected-api
+npm init -y
+npm install express jsonwebtoken dotenv
